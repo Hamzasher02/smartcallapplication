@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215834021060",
+    "firebase_url": "https://filesav-c8490-default-rtdb.firebaseio.com",
+    "project_id": "filesav-c8490",
+    "storage_bucket": "filesav-c8490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215834021060:android:9e74048c130f212153cd91",
+        "android_client_info": {
+          "package_name": "com.example.ims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215834021060-kbnt0pr3vq52dudpn3ch0ge9l7nrlbh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1DlvfVKa1xoMBUf0t9h6GghNnRrUVzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215834021060-kbnt0pr3vq52dudpn3ch0ge9l7nrlbh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

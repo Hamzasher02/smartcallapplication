@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+use_frameworks!
+use_modular_headers!
+
+target 'Runner' do
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+end
